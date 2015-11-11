@@ -1,0 +1,23 @@
+name: TMinus50
+favicon: null
+layout_spectrum: 0.5994180031120777
+typography_spectrum: 0.43676359113305807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2740494527388364
+  lightness: 0.9905547690577805
+  saturation: 0.967713600024581
+  rhythmicContrast: 0.5590327777899802
+purpose: []
